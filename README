@@ -1,3 +1,6 @@
 添加nginx日志访问次数最多的ip到iptables
 
 封禁访问最多的前20名的ip
+
+使用方法
+#sh s.sh /data/wwwlogs/web.log 
